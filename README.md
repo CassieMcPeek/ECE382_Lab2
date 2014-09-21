@@ -9,3 +9,8 @@ ECE382_Lab2 - Subroutines - "Cryptography"
 # Prelab
 
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab2/master/Prelab.jpg "Prelab Pseudocode")
+
+
+# Debugging
+
+  
