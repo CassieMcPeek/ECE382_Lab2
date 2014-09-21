@@ -34,3 +34,8 @@ I demonstrated the required and B functionalities to Capt Trimble on 18 SEP 2014
 
 # Conclusion
   
+  The goal of this lab was the decrypt a message with a given key. The results of the decrypted message were not given, but it was clear when the goal was reached because it produced an actual message and not just letters or symbols. This lab taught me a lot about assembly code, mainly how to utilize subroutines to help make the code easier to debug and understand. I learned how to call subroutines inside of other subroutines and also in the main loop of the code. The most challenging part of this code was determining what should take place in the main loop versus the subroutines. I understood how the XOR function was going to be utilized, but ensuring that each piece of information was xor'd with the key individually and then the entire message was output into the correct address 0x0200, was a little challenging. I was not able to achieve the A functionality of decrypting a message without knowledge of the key, but I still learned a lot from this lab. 
+  
+# Documentation:
+
+  C2C Ian Goodbody assisted me with debugging my code and he also showed me how to keep track of the length of the key by utilizing another input. 
