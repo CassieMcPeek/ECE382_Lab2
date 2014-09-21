@@ -8,9 +8,13 @@ ECE382_Lab2 - Subroutines - "Cryptography"
   
 # Prelab
 
+Below is a picture of my prelab pseudocode. It was discussed and signed off by Capt Trimble on 16 SEP 2014.
+
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab2/master/Prelab.jpg "Prelab Pseudocode")
 
 
 # Debugging
+
+  The start of this code was very similar to the first lab, with the .byte inputs. For the required functionality, there were two inputs, the encrypted message and the key. The first part of the main loop code was simple in that I loaded the different inputs into various registers and then called the subroutine decrypt_message. I didn't fact too many issues with this part of the code. Moving on with the code, I wrote two subroutines, the first being very simple in that it only performed the XOR function between the encrypted message. The second subroutine is where the entire message was actually decrypted by utilizing the first subroutine. 
 
   
